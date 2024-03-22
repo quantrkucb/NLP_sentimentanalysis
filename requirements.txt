@@ -1,0 +1,5 @@
+nltk
+tweepy-4.14
+textblob-0.18
+pandas
+numpy
